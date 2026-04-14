@@ -1,0 +1,8 @@
+Trying password: 'root'
+Error connecting with password 'root': (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+Trying password: ''
+Error connecting with password '': (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+Trying password: '1234'
+=== Successfully connected to MySQL database 'DTMS' with password '1234' ===
+--- Tables in 'DTMS' ---
+No tables found in the database. You might need to run Django migrations.

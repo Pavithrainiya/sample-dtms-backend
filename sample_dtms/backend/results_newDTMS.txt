@@ -1,0 +1,3 @@
+=== Successfully connected to MySQL database 'newDTMS' with password '1234' ===
+--- Tables in 'newDTMS' ---
+No tables found in the database. The database exists, but you need to run Django migrations.
